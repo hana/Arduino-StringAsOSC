@@ -1,0 +1,10 @@
+StringAsOSC	KEYWORD1
+
+setAddress	KEYWORD2
+addArg	KEYWORD2
+fill	KEYWORD2
+getArgAsInt	KEYWORD2
+getArgAsFloat	KEYWORD2
+getArgAsString	KEYWORD2
+getString	KEYWORD2
+bind	KEYWORD2
